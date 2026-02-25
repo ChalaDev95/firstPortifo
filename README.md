@@ -52,7 +52,7 @@ firstPortifo/
    ```
 
 ## 📧 Contact
-
+- **portfolio**: https://portifolio-kappa-wine-19.vercel.app/
 - **Email**: chalaurgeso0@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/chala-urgeso/
 - **GitHub**: https://github.com/ChalaDev95
